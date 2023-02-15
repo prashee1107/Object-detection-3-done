@@ -1,0 +1,28 @@
+a{
+    width: 20%;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    margin-top: 15px;
+   
+}
+body{
+    background-size: cover;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    font-size: large;
+}
+.back{
+text-decoration: none;
+bottom: 0;
+position: fixed;
+
+}
+.heading{
+    font-size: 30px;
+    box-shadow: 5px 5px 5px  grey;
+    width: 100%;
+    margin-top: 0px;
+}
